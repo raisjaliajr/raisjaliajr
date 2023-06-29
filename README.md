@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raisjaliajr
 - 👀 I’m interested in Frontend, Backend, Integrations.
-- 🌱 I’m currently learning MERN Stack, Spring-Boot using Microservices.
+- 🌱 I’m currently learning MERN Stack.
 - 📫 How to reach me raisjaliajr@gmail.com
 
 <!---
